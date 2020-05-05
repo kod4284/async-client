@@ -2,7 +2,6 @@
 #include <boost/predef.h>
 #include <boost/asio.hpp>
 
-#include <thread>
 #include <mutex>
 #include <iostream>
 
